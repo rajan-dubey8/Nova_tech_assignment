@@ -26,14 +26,13 @@ This project allows users to add tasks, view them, and mark tasks as completed.
 
 ## 📂 Project Structure
 
----task-tracker/
-│
+task-tracker/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-├── assets/
-│   └── task-tracker-demo.png   
+└── assets/
+└── task-tracker-demo.png  
 
 
 ## 📸 Application Screenshot
