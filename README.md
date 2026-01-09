@@ -39,4 +39,4 @@ This project allows users to add tasks, view them, and mark tasks as completed.
 ## 📸 Application Screenshot
 
 ### Task Tracker UI
-![Task Tracker Screenshot](assets/task-tracker-demo.png)
+![Task Tracker Screenshot](assets/task_tracker_demo.png)
